@@ -10,8 +10,8 @@ const katex = require('rehype-katex');
 const config = {
   title: 'Flight Club',
   tagline: 'BMFA Design, Build, Fly 2022',
-  url: 'https://github.com/',
-  baseUrl: '/BMFA-Project/',
+  url: 'https://bmfa.harryramsay.co.uk/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
