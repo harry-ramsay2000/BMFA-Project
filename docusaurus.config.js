@@ -69,12 +69,12 @@ const config = {
             position: 'left',
             label: 'Project Documentation',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
-          // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://github.com/facebook/docusaurus',
+            label: 'GitHub',
+            position: 'right',
+          },
         ],
       },
       footer: {
