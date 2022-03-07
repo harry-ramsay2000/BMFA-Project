@@ -2,28 +2,28 @@
 <rss version="2.0">
     <channel>
         <title>Flight Club Blog</title>
-        <link>https://github.com/blog</link>
+        <link>https://bmfa.harryramsay.co.uk/blog</link>
         <description>Flight Club Blog</description>
         <lastBuildDate>Sun, 01 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://github.com/BMFA-Project/blog/mdx-blog-post</link>
+            <link>https://bmfa.harryramsay.co.uk/blog/mdx-blog-post</link>
             <guid>mdx-blog-post</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
         </item>
         <item>
             <title><![CDATA[Long Blog Post]]></title>
-            <link>https://github.com/BMFA-Project/blog/long-blog-post</link>
+            <link>https://bmfa.harryramsay.co.uk/blog/long-blog-post</link>
             <guid>long-blog-post</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[This is the summary of a very long blog post,]]></description>
         </item>
         <item>
             <title><![CDATA[First Blog Post]]></title>
-            <link>https://github.com/BMFA-Project/blog/first-blog-post</link>
+            <link>https://bmfa.harryramsay.co.uk/blog/first-blog-post</link>
             <guid>first-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>

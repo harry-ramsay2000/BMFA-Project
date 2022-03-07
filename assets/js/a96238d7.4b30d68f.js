@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[125],{5665:function(s){s.exports=JSON.parse('{"allTagsPath":"/BMFA-Project/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/BMFA-Project/blog/tags/docusaurus"}')}}]);
