@@ -35,7 +35,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/harry-ramsay2000/my-website/tree/main/docs',
+          editUrl: 'https://github.com/harry-ramsay2000/BMFA-Project/tree/main/docs',
           remarkPlugins: [math],
           rehypePlugins: [katex],
         },
@@ -43,7 +43,7 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/harry-ramsay2000/my-website/tree/main/blog',
+            'https://github.com/harry-ramsay2000/BMFA-Project/tree/main/blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
