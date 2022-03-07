@@ -17,7 +17,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'harry-ramsay2000', // Usually your GitHub org/user name.
   projectName: 'BMFA-Project', // Usually your repo name.
-  deploymentBranch: "gh-pages",
+  // deploymentBranch: "gh-pages",
 
   stylesheets: [
     {
@@ -37,7 +37,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/harry-ramsay2000/BMFA-Project/tree/main/docs',
+          editUrl: 'https://github.com/harry-ramsay2000/BMFA-Project/tree/main',
           remarkPlugins: [math],
           rehypePlugins: [katex],
         },
@@ -45,7 +45,7 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/harry-ramsay2000/BMFA-Project/tree/main/blog',
+            'https://github.com/harry-ramsay2000/BMFA-Project/tree/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
