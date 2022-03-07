@@ -17,6 +17,8 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'harry-ramsay2000', // Usually your GitHub org/user name.
   projectName: 'BMFA-Project', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
+
   stylesheets: [
     {
       href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
