@@ -10,13 +10,13 @@ const katex = require('rehype-katex');
 const config = {
   title: 'Flight Club',
   tagline: 'BMFA Design, Build, Fly 2022',
-  url: 'https://bmfa.harryramsay.co.uk',
-  baseUrl: '/',
+  url: 'https://github.com/',
+  baseUrl: '/BMFA-Project/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'FlightClub', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'harry-ramsay2000', // Usually your GitHub org/user name.
+  projectName: 'BMFA-Project', // Usually your repo name.
   stylesheets: [
     {
       href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
