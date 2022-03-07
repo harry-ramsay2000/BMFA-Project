@@ -4,17 +4,22 @@ import Layout from '@theme/Layout';
 function Hello() {
   return (
     <Layout title="Hello">
+        <div style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+        <img src='/img/flight_club.png' alt='flight club logo'/>
+      </div>
       <div
         style={{
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
-          height: '50vh',
-          fontSize: '20px',
+          fontSize: '40px',
         }}>
         <p>
-          Edit <code>pages/helloReact.js</code> and save to reload.
+          Hello! Welcome to <b>Flight Club</b>.{'\n'}
         </p>
+      </div>
+      <div style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+        <p style={{fontSize: '25px'}}>Navigate to our project documentation and project blog at the top of this page.</p>
       </div>
     </Layout>
   );
