@@ -140,7 +140,7 @@ despite the reduction in ease of manufacture and assembly.
 
 ## Concept Configurations
 
-|                         |![image](./img/concept1/config_1.png)|![image](./img/concept1/config_2.png)|![image](./img/concept1/config_3.png)|
+|                         |![image](/img/concept1/config_1.png)|![image](/img/concept1/config_2.png)|![image](/img/concept1/config_3.png)|
 | ------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
 |                         |**Concept One**                      |**Concept Two**                      |**Concept Three**|
 | **Wing**                |Flying Wing                          |Rectangular                          |Rectangular|
