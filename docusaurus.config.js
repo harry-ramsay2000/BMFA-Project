@@ -60,7 +60,7 @@ const config = {
         title: 'Flight Club',
         logo: {
           alt: 'Flight Club',
-          src: 'img/flight_club.png',
+          src: 'img/flight_club.svg',
         },
         items: [
           {

@@ -5,7 +5,7 @@ function Hello() {
   return (
     <Layout title="Hello">
         <div style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
-        <img src='/img/flight_club.png' alt='flight club logo'/>
+        <img src='/img/flight_club.svg' alt='flight club logo'/>
       </div>
       <div
         style={{
