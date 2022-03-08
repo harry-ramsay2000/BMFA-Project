@@ -65,9 +65,9 @@ An initial estimate for the take-off field length of 15m was made by reviewing f
 
 Figure 2 contains the ratio of *Power* and *Wing Loading* during different flight conditions including cruise, take-off, and a turn/hold manoeuvre. The highlighted regions surrounding each flight condition outline a safety margin of 5% in the respective manoeuvre velocity. The value of the selected *Power Loading* must be greater than the constraints of the cruise at max speed and take-off, the area for which is indicated by the pass region. The *Wing Loading* is also limited by the max cruise speed and take-off as the selected design point must lie in the area bounded by them - the other constraining factor for *Wing Loading* would be the landing. The landing curve was removed from the plot as the value of *Wing Loading* for a given landing field length of 10 m was 67.5 kgm$^−2$, this would appear as a vertical line restricting the *Wing Loading* but its large value suggests it has no impact on the selection of the design point. The optimum design point would be at the intersection of the cruise curve and the take-off line, which would indicate a wing loading of 12.55 kgm$^−2$ but the power loading was taken to be 10.81 Wkg$^−1$ giving a 10% margin of error from the intersection point. This *Wing Loading* falls well within the expected values from the [market research](/docs/Market_research/research) where the average *Wing Loading* for aircraft with missions similar to that outlined in [BMFA, 2021](/docs/references) was 10.37 kgm$^−2$. This suggests that the method used to select the design point and the parameters that were set to achieve the sizing diagram were suitable and can be considered accurate.
 
-# Constraint Analysis Parameters
+### Constraint Analysis Parameters
 |Parameter|Value|Units|
-|---------|-----|-----|
+|---------|-----|----|
 |**Mission Requirements**|   |   |
 |  Take-Off Field Length| 15 | m |
 |  Landing Field Length| 10 | m |
