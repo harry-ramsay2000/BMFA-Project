@@ -57,7 +57,7 @@ $$
     n=\frac{1}{\cos\left(\phi\right)}
 $$
 
-An initial estimate for the take-off field length of 15m was made by reviewing footage of previous BMFA competition take-off runs and the standards of similar competitions such as the AIAA flight payload challenge. The landing field length was assumed to be two thirds of the take-off field length as assumed in second year lecture notes [[City, 2019]](/docs/references), and the friction coefficient of grass related to the take-off equation ($\mu$) was found to be 0.8 by [Cenek, 2016](/docs/references)]. The final consideration that was made for the take-off and landing manoeuvres was for the approximate increment in the zero lift drag coefficient due to the deflection of a flap ($\Delta C_{D0_{flap}}$), which is estimated to be around \num{0.01} for a small, radio control, fixed-wing UAV as outlined by [Sadraey, 2020](/docs/references). A complete table of parameters used in the constraint analysis can be found at the end of this page.
+An initial estimate for the take-off field length of 15m was made by reviewing footage of previous BMFA competition take-off runs and the standards of similar competitions such as the AIAA flight payload challenge. The landing field length was assumed to be two thirds of the take-off field length as assumed in second year lecture notes [[City, 2019]](/docs/references), and the friction coefficient of grass related to the take-off equation ($\mu$) was found to be 0.8 by [Cenek, 2016](/docs/references)]. The final consideration that was made for the take-off and landing manoeuvres was for the approximate increment in the zero lift drag coefficient due to the deflection of a flap ($\Delta C_{D0_{flap}}$), which is estimated to be around \num{0.01} for a small, radio control, fixed-wing UAV as outlined by [Sadraey, 2020](/docs/references). A complete table of parameters used in the constraint analysis can be found at the [end of this page](#constraint-analysis-parameters).
 
 ![constraint analysis](/img/concept1/output.png)
 <center><i>Fig 2: Constraint analysis showing the required Power Loading at various Wing Loading values for different mission stages.</i></center>
@@ -69,9 +69,9 @@ Figure 2 contains the ratio of *Power* and *Wing Loading* during different fligh
 |Parameter|Value|Units|
 |---------|-----|----|
 |**Mission Requirements**|   |   |
-|  Take-Off Field Length| 15 | m |
-|  Landing Field Length| 10 | m |
-|  Flight Level | 150 | m |
+|  Take-Off Field Length| 15 | $m$ |
+|  Landing Field Length| 10 | $m$ |
+|  Flight Level | 150 | $m$ |
 | $\mu_\text{grass}$ | 0.8 | |
 |**Aerodynamic Constants**|  |  |
 |  Cruise $C_{D_0}$ | 0.03 | |
