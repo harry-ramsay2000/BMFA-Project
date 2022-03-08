@@ -41,7 +41,7 @@ $$
     k_1=\frac{1}{\pi eAR}
 $$
 
-An initial estimate was made for the maximum cruise velocity in a similar way to the aspect ratio, whereby the cruise velocities of suitable aircraft from the market research were plotted against the respective payloads and the desired \SI{4}{\kg} payload was applied to the trend to return a cruise velocity of \SI{15.84}{\metre\per\second}. Both cruise conditions in figure 2 are found using the master equation with a load factor ($n$) of $1$, but the turn/hold condition has a differing value of $n$ that relates to the velocity and turn rate, $\dot{\psi}$, and follows [Gudmundsson, 2014](/docs/references):
+An initial estimate was made for the maximum cruise velocity in a similar way to the aspect ratio, whereby the cruise velocities of suitable aircraft from the market research were plotted against the respective payloads and the desired 4kgs payload was applied to the trend to return a cruise velocity of 15.84ms$^{-1}$. Both cruise conditions in figure 2 are found using the master equation with a load factor ($n$) of $1$, but the turn/hold condition has a differing value of $n$ that relates to the velocity and turn rate, $\dot{\psi}$, and follows [Gudmundsson, 2014](/docs/references):
 
 $$
     \eta=\sqrt{1+\frac{\dot{\psi} V}{g}}
