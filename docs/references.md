@@ -27,3 +27,21 @@
 **Monroe Aerospace, 2020** Monroe Aerospace. "Taildragger vs tricycle landing gear; What's the difference?" (Jun. 2020), [Online]. Available: [https://monroeaerospace.com/blog/taildragger-vs-tricycle-landing-gear-whats-the-difference/](https://monroeaerospace.com/blog/taildragger-vs-tricycle-landing-gear-whats-the-difference/]
 
 **McDowell, 2021** J. McDowell. "The new owner: Tricycle gear or taildragger?" (Oct. 2021), [Online]. Available: [https://www.flyingmag.com/newowner-tricyclegear-taildragger/](https://www.flyingmag.com/newowner-tricyclegear-taildragger/)
+
+**Shrivastav, 2018**  V. Shrivastav and S. Pandey, "Blended wing body aircraft", *Gyancity Journal of Engineering and Technology*, vol. 4, pp. 8-18, Jan. 2018. DOI: [https://doi.org/10.21058/gjet.2018.41002](https://doi.org/10.21058/gjet.2018.41002)
+
+**Herbert, 2019** A. Herber, "Pusher vs. puller propeller aircraft compared". (2019), [Online]. Available: [https://airplaneacademy.com/pusher-vs-puller-propeller-aircraft-compared](https://airplaneacademy.com/pusher-vs-puller-propeller-aircraft-compared)
+
+**Benyamen, 2020**  H. Benyamen, A. Mckinnis, and S. Keshmiri, "Effects of propwash on horizontal tail aerodynamics of pusher uavs", in *2020 IEEE Aerospace Conference, 2020, pp. 1-9. DOI: [https://doi.org/10.1109/AERO47225.2020.9172481](https://doi.org/10.1109/AERO47225.2020.9172481)
+
+**FliteTest, 2018** FliteTest. "Edf vs. jet engine - what's the difference?" (2018), [Online]. Available: [https://www.flitetest.com/articles/edf-vs-jet-engine-what-s-the-difference](https://www.flitetest.com/articles/edf-vs-jet-engine-what-s-the-difference)
+
+**Martinez-Val, 2000**  R. Martinex-Val and E. Schoep, "Flying wing versus conventional transport airplane: The 300 seat case", 2000.
+
+**Harris, 2002**  T. Harris. "How stealth bombers work." (Apr. 2002), [Online]. Available: [https://science.howstuffworks.com/stealth-bomber1.htm](https://science.howstuffworks.com/stealth-bomber1.htm)
+
+**Wang, 2020**  L. Wang, N. Zhang, T. Yue, H. Liu, J. Zhu, and X. Jia, "Three-axis coupled flight control law design for flying wing aircraft using eigenstructure assignment method," *Chinese Journal of Aeronautics*, vol. 33, no. 10, pp. 2510-2526, 2020. DOI: [https://doi.org/https://doi.org/10.1016/j.cja.2020.03.016](https://doi.org/https://doi.org/10.1016/j.cja.2020.03.016). [Online]. Available: [https://www.sciencedirect.com/science/article/pii/S1000936120301904](https://www.sciencedirect.com/science/article/pii/S1000936120301904)
+
+**Dimitriadis, 2018** G. Dimitriadis, *Fighter aircraft design*, Presentation, 2018.
+
+**FuelSafe, 2021**  FuelSafe. "Aircraft fuel bladders - aviation fuel cells." (2021), [Online]. Available: [https://fuelsafe.com/aircraft-fuel-bladders](https://fuelsafe.com/aircraft-fuel-bladders)
