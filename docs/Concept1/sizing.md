@@ -69,9 +69,9 @@ Figure 2 contains the ratio of *Power* and *Wing Loading* during different fligh
 |Parameter|Value|Units|
 |---------|-----|----|
 |**Mission Requirements**|   |   |
-|  Take-Off Field Length| 15 | m |
-|  Landing Field Length| 10 | m |
-|  Flight Level | 150 | m |
+|  Take-Off Field Length| 15 | $m$ |
+|  Landing Field Length| 10 | $m$ |
+|  Flight Level | 150 | $m$ |
 | $\mu_\text{grass}$ | 0.8 | |
 |**Aerodynamic Constants**|  |  |
 |  Cruise $C_{D_0}$ | 0.03 | |
