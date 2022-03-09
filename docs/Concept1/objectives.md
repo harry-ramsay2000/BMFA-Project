@@ -24,8 +24,7 @@ $$
 
 The range of achievable scores is dictated by the structural efficiency that could be expected of the aircraft. Previous BMFA competition results [[BMFA, 2019]](/docs/references) were used to compute a structural efficiency for aircraft looking to maximise Payload/OWE; as is the case for this mission. This resulted in a reasonable structural efficiency target value of 0:7. Results are therefore unachievable when the combination of OWE and Payload exceed the calculated MTOW.
 
-![Scoring analysis.](/img/concept1/scoring.png)
-<center><i>Fig 1: Payload Challenge scoring analysis.</i></center>
+![Scoring analysis.](/img/concept1/scoring.png)<center><i>Fig 1: Payload Challenge scoring analysis.</i></center>
 
 Looking at figure 1 for this efficiency, it suggests that the maximum score is approximately 400 which is achieved at an OWE of approximately 0.8 kg carrying a payload of 2 kg in both payloadcarrying flights.
 Existing aircraft outside of the BMFA competitions however, have seen structural efficiencies as high as 79% and so it could be possible to have a final score much greater. The figure could also be useful during the design phase. If at some stage during design it is calculated that the aircraft will not support a 4 kg payload without reinforcement, figure 1 could be used to determine whether it is better to fly at it’s current design weight with a reduced payload, than carry 4 kg but require additional weight in reinforcement, increasing OWE.
