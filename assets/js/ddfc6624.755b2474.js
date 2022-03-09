@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6750],{3529:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"management","name":"management","count":1,"permalink":"/blog/tags/management"}')}}]);
