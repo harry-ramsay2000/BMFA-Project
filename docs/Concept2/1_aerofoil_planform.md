@@ -6,10 +6,10 @@
 ### Aerofoil Selection
 The first stage of aerodynamic analysis for the flying wing was a 2D analysis of a series of aerofoil sections suitable for use in flying wings. These aerofoils were suggested for use in flying wings by [O'Brien, 1997](/docs/references) , as well as [Weyl, 1945](/docs/references) which outlines the requirement for aerofoils that are suitable for flying wing aircraft. The main concern for a flying wing is that the aerofoil must be stable without the need for an offset tailplane - this is achieved by having the CG ahead of the aerodynamic centre of the section [Weyl, 1945](/docs/references). This is achieved by implementing a reflex camber, as done by Fauvel and outlined in [Weyl, 1945](/docs/references). The aerofoils were analysed between Reynolds numbers of 100000 to 500000, corresponding to a root chord range of 0.2m to 0.5m. The initially predicted cruise velocity, 13.46 ms$^{−1}$ [[Concept 1](/docs/Concept1/sizing)], was applied along with the kinematic viscosity at the desired cruise altitude - 1.4207 m$^2$s$^{−1}$.
 
-![](/img/Concept2/L_D_100k.png)<center><i>Fig 1: 2D Lift to Drag performance at Reynolds =
+![](/img/concept2/L_D_100k.png)<center><i>Fig 1: 2D Lift to Drag performance at Reynolds =
 100000</i></center>
 
-![](/img/Concept2/L_D_500k.png)<center><i>Fig 2: 2D Lift to Drag performance at Reynolds =
+![](/img/concept2/L_D_500k.png)<center><i>Fig 2: 2D Lift to Drag performance at Reynolds =
 500000</i></center>
 
 The main consideration for the aerofoil performance was the lift to drag characteristics at a varied angle of attack - the results for which can be seen in figures [1] and [2] at Reynolds numbers of 100000 and 500000 respectively. Analysis of the aerofoil and wing parameter sections were carried out in `XFLR 5` using Direct `XFOIL` Analysis and *Wing and Plane* analysis. The E230 had a relatively poor performance level at all Reynolds numbers and was therefore the first to be removed from consideration. The E182, E184 and E186 aerofoils possessed high $L/D$ values but at very low angles of attack. It is likely that such an aircraft that would result from this design project would be subjected to frequent deviation in the pitching angle due to the potential effects of wind on such a light structure. This could lead to a resultant low, but non-zero, angle of attack at an unwanted time, potentially causing unwanted rise in altitude and therefore these aerofoils were removed from consideration.
@@ -51,7 +51,7 @@ To set an initial aspect ratio, the lift and drag characteristics were found for
 
 ### Taper Ratio
 
-![](/img/Concept2/taper.png)<center><i>Fig 8: 3D Wing performance at varied taper ratio.</i></center>
+![](/img/concept2/taper.png)<center><i>Fig 8: 3D Wing performance at varied taper ratio.</i></center>
 
 The next design change was to the structure of the wing itself; a change of aerofoil was introduced such that the inner region of the wing would be an S5010 section while the outboard section would be an S5020 section. This was done to reduce the overall thickness at the outboard section as this portion of the aircraft would not need to be as thick for storage purposes; this change in aerofoil shape was initially set to to occur at 20% semi-span. It can be seen from figure [8] that taper ratio has little effect on the aerodynamic performance aside from the maximum lift coefficient being marginally different. The $L/D$ ratios also vary slightly around their respective peaks, where a lower taper ratio results in higher $L/D$. These differences were not significant enough at to affect selection and instead the desired tip chord length was used to decide a taper ratio. A taper ratio of 0.4 was selected as it provides a sufficient wing tip chord of approximately 0.138 m - this allows for the mounting of sufficiently sized winglets to provide lateral stability. Additionally, the larger the taper ratio, for a given span and constant area, the larger the root chord resulting in more cargo space.
 

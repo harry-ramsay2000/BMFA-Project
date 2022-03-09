@@ -6,4 +6,4 @@
 
 With the above choices made, an initial concept drawing can be created to give a first look at the potential aircraft design.
 
-![](/img/concept2/sketch_final.jpg)
+![](/img/concept2/Sketch_Final.jpg)

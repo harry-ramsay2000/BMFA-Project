@@ -4,7 +4,7 @@
   title: 'Payload Integration'
 ---
 
-![](/img/concept2/planform_2.png)<center><i>Fig 1: Initial planform design.</i></center>
+![](/img/concept2/Planform_2.png)<center><i>Fig 1: Initial planform design.</i></center>
 
 The estimated useable area for storage of the main electrical components
 (battery and motor) along with the positioning of the additional payload
