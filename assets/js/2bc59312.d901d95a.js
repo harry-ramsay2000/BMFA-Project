@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[304],{6380:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"wind-tunnel","name":"wind tunnel","count":1,"permalink":"/blog/tags/wind-tunnel"}')}}]);

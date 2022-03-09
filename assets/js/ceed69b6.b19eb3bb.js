@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8178],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Quarter Scale Wind Tunnel Model","permalink":"/blog/wind-tunnel-model"},{"title":"Composite materials arrive!","permalink":"/blog/arrival-of-materials"}]}')}}]);
