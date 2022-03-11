@@ -2,7 +2,7 @@
 slug: wind-tunnel-testing
 title: Wind Tunnel Testing Begins 
 authors: [harry]
-date: 2022-03-011
+date: 2022-03-11
 tags: [model, wind tunnel, testing]
 ---
 
