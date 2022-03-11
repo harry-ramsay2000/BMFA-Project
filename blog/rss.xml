@@ -8,6 +8,13 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[Wind Tunnel Testing Begins]]></title>
+            <link>https://bmfa.harryramsay.co.uk/blog/wind-tunnel-testing</link>
+            <guid>wind-tunnel-testing</guid>
+            <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Friday saw the start of the teams wind tunnel testing. The day was spent setting the model up and ensuring the function of the test facilities. The team aims to use this testing time to validate the theoretical aerodynamic performance as ensure the suitability of the current planform for the competition design.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Quarter Scale Wind Tunnel Model]]></title>
             <link>https://bmfa.harryramsay.co.uk/blog/wind-tunnel-model</link>
             <guid>wind-tunnel-model</guid>
