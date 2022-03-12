@@ -69,7 +69,7 @@ const config = {
             position: 'left',
             label: 'Project Documentation',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
           // {
           //   href: 'https://github.com/harry-ramsay2000/BMFA-Project',
           //   label: 'GitHub',
@@ -126,6 +126,8 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+    metadata: [{name: 'bmfa, flight club, payload, challenge, city, university, model, uav, harry ramsay, engineering',
+  content: 'engineering, maths, model, aircraft, flight, bmfa, challenge, university'}]
     }),
 };
 
