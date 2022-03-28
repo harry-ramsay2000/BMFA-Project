@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bmfa.harryramsay.co.uk/blog</id>
     <title>Flight Club Blog</title>
-    <updated>2022-03-11T00:00:00.000Z</updated>
+    <updated>2022-03-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bmfa.harryramsay.co.uk/blog"/>
     <subtitle>Flight Club Blog</subtitle>
     <icon>https://bmfa.harryramsay.co.uk/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Practice Manufacturing]]></title>
+        <id>Practicing-composite-modelling</id>
+        <link href="https://bmfa.harryramsay.co.uk/blog/Practicing-composite-modelling"/>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After producing a half scale flat model of the wing, the team began to practice manufatucring of the model. Two layers of primer has been added and cured over the past few days, ready for sanding and laying.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wind Tunnel Testing Begins]]></title>
         <id>wind-tunnel-testing</id>

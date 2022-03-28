@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5496],{4226:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"manufacturing","name":"manufacturing","count":1,"permalink":"/blog/tags/manufacturing"}')}}]);
